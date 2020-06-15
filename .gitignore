@@ -1,0 +1,7 @@
+*node_modules/
+*gulpfile.js
+*package.json
+*package-lock.json
+*css/normalize.scss
+*css/style.scss
+*img/img_4009.mp4
