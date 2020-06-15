@@ -330,8 +330,8 @@ mixin font-regular {
 .menu {
   height: 75px;
   background: rgba(0, 19, 40, 0.5);
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 14%;
+  padding-right: 14%;
   color: white;
   text-align: center; }
   .menu img {
@@ -368,8 +368,8 @@ mixin font-regular {
 
 .homeTitle {
   color: white;
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 14%;
+  padding-right: 14%;
   font-family: 'minion', sans-serif;
   font-weight: initial;
   font-size: 30px;
@@ -377,15 +377,15 @@ mixin font-regular {
 
 .homeSubTitle {
   color: white;
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 14%;
+  padding-right: 14%;
   padding-top: 180px;
   font-family: 'minion', sans-serif;
   font-weight: initial;
   font-size: 25px; }
 
 #btn1 {
-  margin-left: 15%;
+  margin-left: 14%;
   margin-right: 10px;
   margin-top: 1%;
   font-family: 'minion', sans-serif;
@@ -410,8 +410,8 @@ mixin font-regular {
   height: 50px; }
 
 .reasons {
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 14%;
+  padding-right: 14%;
   background-color: #F4F9FC;
   height: 640px; }
 
@@ -442,9 +442,10 @@ mixin font-regular {
 .stages {
   color: white;
   text-align: center;
-  background-color: #000F27;
-  padding-left: 15%;
-  padding-right: 15%;
+  background: url("../img/stepbg.png") no-repeat;
+  background-size: cover;
+  padding-left: 14%;
+  padding-right: 14%;
   height: 1700px; }
   .stages img {
     margin-top: -60px; }
@@ -491,8 +492,8 @@ mixin font-regular {
   text-align: center;
   background-color: #F4F9FC;
   height: 1550px;
-  padding-left: 15%;
-  padding-right: 15%; }
+  padding-left: 14%;
+  padding-right: 14%; }
 
 #icon2 {
   margin-top: -49px; }
@@ -536,8 +537,8 @@ mixin font-regular {
   padding-left: 40px; }
 
 .work {
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 14%;
+  padding-right: 14%;
   height: 1100px;
   background-color: #F3F8FB;
   text-align: center; }
